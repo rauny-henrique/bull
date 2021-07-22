@@ -1,11 +1,11 @@
 {
-  "name": "bull",
+  "name": "@rauny_henrique/bull",
   "version": "3.5.1",
   "description": "Job manager",
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/OptimalBits/bull.git"
+    "url": "git@github.com:rauny-henrique/bull.git"
   },
   "keywords": [
     "job",

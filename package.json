@@ -1,6 +1,6 @@
 {
   "name": "@rauny_henrique/bull",
-  "version": "3.23.7",
+  "version": "3.23.8",
   "description": "Job manager",
   "engines": {
     "node": ">=10"
